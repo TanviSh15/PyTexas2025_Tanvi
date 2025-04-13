@@ -1,0 +1,25 @@
+
+.tab-section.pard-bg {
+    background-image: url("/assets/311PARD.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+.tab-section.traffic-bg {
+    background-image: url("/assets/Traffic_light.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+.graph-block {
+    background-color: rgba(255,255,255,0.85);
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
